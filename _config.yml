@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Advanced Interaction 2017
+title: Advanced Interaction 2016
 desc: "The project developed this first semester consisted in the creation of iPad games with three strict constraints: the absence of a score, no use of colors and perpetual motion. The aim was to create a playful concept highlighting the originality and the 
 efficiency of simple interaction design principles."
 teacher:
@@ -17,27 +17,57 @@ teacher:
 markdown: kramdown
 
 projects:
-  - name: "Ditto Fellow"
+  - name: "HEXAHEXA"
     idx: 2
-    link: https://itunes.apple.com/app/id1207317007
-    appid: 1207317007
-    image: projects/ditto/1.jpg
-    description: "Ditto Fellow is a minimal looking game with simple interactions based on your observation skills. It displays a grid of elements in which you have to find the fellow one following the same motion pattern as the indicator.
-As you complete levels, the difficulty will increase with more error possibilities and more complex movements."
-    created_by: "Aloïs Geiser"
-  - name: "Flow Particles"
-    idx: 1
-    link: https://itunes.apple.com/app/id1207316999
-    appid: 1207316999
-    image: projects/flow/1.jpg
-    description: "Flow Particles is a game inspired by the laws of electromagnetism.
-By changing the electromagnetic field, try to aim the particles toward the receptors."
-    created_by: "Pietro Alberti"
-  - name: "Bolas Bolas"
-    idx: 3
-    link: https://itunes.apple.com/app/id1207317003
-    appid: 1207317003
-    image: projects/bolas/1.jpg
-    description: "Drag the moving circles inside their corresponding corners. Don't trust your brain."
-    created_by: "Andrea Ramirez Aburto"
+    link: https://itunes.apple.com/app/id1090341025
+    appid: 1090341025
+    image: projects/hexahexa/1.jpg
+    description: "HEXAHEXA (from Greek hex, \"six\") is a puzzle game where hexagons are combined into a coherent structure.
 
+The structure follows a simple complementarity principle: the same color sectors join and the opposite color sectors destroy. The aim of the game is to build up a structure from hexagons reaching to the top of the screen.
+
+HEXAHEXA requires the player to predict the trajectory, analyse the complementarity and remove (by touching) non-complementary hexagons so they build and do not destroy the structure.
+
+On each level the speed increases challenging the player to decide faster.
+"
+    created_by: "Lina Vozniuk-Berzhaner"
+
+  - name: "Lazer Game"
+    idx: 3
+    link: https://itunes.apple.com/app/id1090341180
+    appid: 1090341180
+    image: projects/lazer/1.jpg
+    description: "LAZER is an experimental game inspired on oldies such as Vectrex. 
+The goal is to immerse yourself in a minimalist world in which the player must avoid lasers."
+    created_by: "Alexia Léchot"
+
+  - name: "Phōs"
+    idx: 4
+    link: https://itunes.apple.com/app/id1090341638
+    appid: 1090341638
+    image: projects/phos/1.jpg
+    description: "Catch the Good cells but be careful, the Bad ones are here to make sure you do not succeed. 
+Watch how the cells react, let them move, focus on how they interact with one and another, how they move around you and your net. Then try to catch them !
+Your net can be your best ally as well as your worst enemy. Understand his movements and work out a strategy.
+Adapt, catch and react !"
+    created_by: "Bérénice de Castéja"
+
+  - name: "Spher"
+    idx: 5
+    link: https://itunes.apple.com/app/id1090341168
+    appid: 1090341168
+    image: projects/spher/1.jpg
+    description: "Enter in the univers of Spher, where 3D is hidden behind 2D. Look carefully to find the spheres of the same type and link them to never let the grid fill up.
+"
+    created_by: "Mylène Dreyer"
+
+  - name: "Mechamantis"
+    idx: 1
+    link: https://itunes.apple.com/app/id1090341481
+    appid: 1090341481
+    image: projects/mechamantis/1.jpg
+    description: "Help Mecha evolve by grabbing the good parts and avoiding the bad ones. 
+
+You might require the use of more than one finger to control Mecha's path.
+"
+    created_by: "Julie-Lou Bellenot"
